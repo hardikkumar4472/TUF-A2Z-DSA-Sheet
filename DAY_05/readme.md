@@ -1,5 +1,5 @@
-1.Armstrong Numbers
+1.Armstrong Numbers (LeetCode)
 
-2.Print all Divisors
+2.Print all Divisors (GeeksForGeeks)
 
-3.Check for Prime
+3.Check for Prime (GeeksForGeeks)
