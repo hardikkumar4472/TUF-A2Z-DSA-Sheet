@@ -1,4 +1,4 @@
-//{ Driver Code Starts
+ //{ Driver Code Starts
 // Initial Template for C++
 
 // {Driver Code Starts
@@ -14,7 +14,7 @@ using namespace std;
 class Solution {
   public:
     int dataTypeSize(string str) {
-        if (str=="Character"){
+        if (str==" Characterr "){
             return sizeof(char);
         }
         else if (str=="Integer"){
